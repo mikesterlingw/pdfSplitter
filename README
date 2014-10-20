@@ -1,3 +1,5 @@
+A handy-dandy Perl script that splits double page pdfs. 
+
 TO USE:
 
    You need to have PDF::API2 installed. To install run 
