@@ -1,0 +1,11 @@
+TO USE:
+
+   You need to have PDF::API2 installed. To install run 
+       cpan PDF::API2
+   Use the filename or directory containing the pdfs to be split. For example
+       ./pdfSplit ~/Desktop/
+             or
+       ./pdfSplit ~/Desktop/myfile.pdf
+
+Adapted from http://snipplr.com/view/18924/split-crop-double-page-pdfs-in-two/
+
